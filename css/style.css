@@ -3,3 +3,11 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+.qr-code-component {
+  background-color: hsl(0, 0%, 100%);
+}
