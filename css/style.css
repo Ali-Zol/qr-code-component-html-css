@@ -12,9 +12,20 @@ body {
 
 .qr-code-component {
   background-color: hsl(0, 0%, 100%);
+  margin: auto;
+  max-width: 80%;
+}
+
+#qr-code {
+  margin: auto;
+  max-width: 90%;
+  display: block;
 }
 
 .qr-code-component .title {
+  margin: auto;
+  max-width: 80%;
+  text-align: center;
   color: hsl(218, 44%, 22%);
   font-size: 1rem;
   font-family: 'Outfit';
@@ -22,6 +33,9 @@ body {
 }
 
 .qr-code-component p {
+  margin: auto;
+  max-width: 80%;
+  text-align: center;
   color: hsl(216, 15%, 48%);
   font-size: 1rem;
   font-family: 'Outfit';
