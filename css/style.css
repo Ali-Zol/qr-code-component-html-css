@@ -39,6 +39,7 @@ body {
   max-width: 90%;
   text-align: center;
   color: hsl(218, 44%, 22%);
+  font-size: 1.4rem;
   font-family: 'Outfit';
   font-weight: 700;
 }
