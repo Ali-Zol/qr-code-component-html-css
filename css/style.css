@@ -6,6 +6,10 @@
   box-sizing: border-box;
 }
 
+img {
+  max-width: 100%;
+}
+
 body {
   background-color: hsl(212, 45%, 89%);
   min-height: 100svh;
