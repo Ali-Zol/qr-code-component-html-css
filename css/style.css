@@ -18,10 +18,6 @@ main {
   align-items: center;
 }
 
-#qr-code {
-  border-radius: 10px;
-}
-
 .qr-code-component {
   background-color: hsl(0, 0%, 100%);
   max-width: 20rem;
@@ -33,6 +29,10 @@ main {
   flex-direction: column;
   align-items: center;
   gap: 1rem;
+}
+
+.qr-code-image {
+  border-radius: 10px;
 }
 
 .qr-code-component .title {
