@@ -10,7 +10,7 @@ img {
   max-width: 100%;
 }
 
-body {
+main {
   background-color: hsl(212, 45%, 89%);
   min-height: 100svh;
   display: flex;
