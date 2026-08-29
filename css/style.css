@@ -36,17 +36,19 @@ main {
   border-radius: 10px;
 }
 
-.qr-code-title {
+.qr-code-title,
+.qr-code-text {
   max-width: 90%;
   text-align: center;
+}
+
+.qr-code-title {
   color: hsl(218, 44%, 22%);
   font-size: 1.4rem;
   font-weight: 700;
 }
 
 .qr-code-text {
-  max-width: 90%;
-  text-align: center;
   color: hsl(216, 15%, 48%);
   font-size: 1rem;
   font-weight: 400;
